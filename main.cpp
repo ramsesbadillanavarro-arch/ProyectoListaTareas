@@ -4,7 +4,7 @@
 
 using namespace std;
 
-// Estructura que representa una tarea
+// Estructura que representa una tarea.
 struct Tarea {
     string descripcion;
     bool completada;
