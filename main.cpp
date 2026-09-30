@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <string>
-
+ 
 using namespace std;
 
 // Estructura que representa una tarea
